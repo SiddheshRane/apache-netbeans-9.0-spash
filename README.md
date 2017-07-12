@@ -28,6 +28,14 @@ There also isn't any rectangle below for progress bar
 
 ![feather pattern work in progress](feather-pattern.png)
 
+### Community Contributions
+
+By [Dmitry Avtonomov](https://github.com/chhh "Github profile" )  
+Font used is Maven Pro which is avaialble at [Google Fonts](https://fonts.google.com/specimen/Maven+Pro?selection.family=Maven+Pro).  
+You'll need it to properly render the svg on your machine   
+![splash without netbeans logo](Apache-NetBeans-9.0-IDE-alt-2.png)
+![splash without netbeans logo](Apache-NetBeans-9.0-IDE-alt.png)
+
 ## How to create derivatives
 
 All splashscreens have been generated using Inkscape v0.91. All non original resources like Apache feather and netbeans logo are containd in this repo.
